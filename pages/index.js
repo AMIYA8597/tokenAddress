@@ -69,3 +69,33 @@ export default function Home() {
     </div>
   )
 }
+
+
+// import React from 'react'
+
+// const proceed = () => {
+//   return (
+//     <div>index</div>
+//   )
+// }
+
+// export default index
+
+
+// import React from 'react'
+
+
+
+
+
+// const proceed = () => {
+//   return(
+//       <div className="proceed">
+//           <h1>
+//               Hello Homepage
+//           </h1>
+//           <div className="button">proceed</div>
+//       </div>
+//   )
+// }
+// export default proceed
